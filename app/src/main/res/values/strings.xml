@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtistDemoApp</string>
+    <string name="network_error">Check your internet connection and try again.</string>
+    <string name="error_message">Something went wrong.</string>
+    <string name="artists">Artists</string>
+    <string name="title">Title</string>
+    <string name="name">Name</string>
+    <string name="search_for_your_favorite_artists">Search for your favorite artists.</string>
+    <string name="volume_1">Volume 1</string>
+
+</resources>
